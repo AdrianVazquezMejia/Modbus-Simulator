@@ -9,4 +9,4 @@ This a demand research, __STAR__ this repository to have a full version when it 
 
 # MORE
 
-Developed in Qtgoogle
+Developed with Qt
