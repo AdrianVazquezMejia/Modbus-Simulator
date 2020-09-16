@@ -1,7 +1,7 @@
 # Modbus-Simulator
 This is cross-platform desktop application that works as a modbus slave or master.
 
-This simulator will support TCP/IP, ASCII and RTU.
+This simulator will support Serial and TCP/IP (ASCII and RTU).
 
 # README
 
